@@ -12,12 +12,13 @@
     font-style: normal;
 }
 .botao{ 
+    text-align: center;
     width: 40%;
-padding: 13px 0px;
-background: orange;
-color: white;
-font-weight: bold;
-font-size: 16px;
+    padding: 13px 0px;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
 }
     
     

@@ -2,3 +2,9 @@
     text-align:center;
     font-size: 40px;
 }
+<style type="text/css">
+body {
+background-image: tabuleiro.jpg;
+background-repeat: no-repeat;
+}
+</style>
